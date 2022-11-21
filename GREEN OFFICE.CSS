@@ -88,6 +88,8 @@ footer{
     color: rgb(92, 91, 91);
     font-family: "tahoma";
 }
-img{
+section img{
     width: 200px;
+    float: left;
+    margin-right: 1%;
 }
