@@ -1,0 +1,95 @@
+@font-face{
+    font-family: "oswald";
+    src: url(/fonts/Oswald-VariableFont_wght.ttf);
+}
+body{
+    background-image: url("/IMAGES/fond.png");
+    margin: 0%;
+}
+nav img{
+    height: 20%;
+    width: 20%;
+    margin-left: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+nav{
+    background-color: rgb(184, 203, 33);
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: "oswald";
+}
+.links{
+    float: right;
+    margin-top: 4%;
+    margin-right: 4%;
+    padding-top: 1%;
+}
+.tire{
+    display: inline;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 400px;
+}
+nav ul a{
+    color: rgb(49, 71, 35);
+    text-transform: uppercase;
+    font-family: "Oswald";
+}
+div{
+    background-color:white;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+    color: rgb(92, 91, 91);
+    font-family: "tahoma";
+}
+section h2{
+    font-family: "oswald";
+    color: rgb(184, 203, 33);
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 400;    
+}
+section ul li{
+    list-style-type: circle ;
+}
+.right{
+    float: right;
+    margin-top: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(184, 203, 33);
+    border-color: rgb(184, 203, 33);
+    color: white;
+    margin-right: 2%;
+    padding: 10px;  
+    border: none;
+    text-align: center;
+}
+section{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 10%;
+}
+footer img{
+    height: 50px;
+    width: 50px;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 2%;
+}
+footer{
+    text-align: center;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(92, 91, 91);
+    font-family: "tahoma";
+}
+section img{
+    width: 200px;
+    float: left;
+    margin-right: 1%;
+}
